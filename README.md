@@ -31,7 +31,7 @@
 
 При загрузке Python, обязательно ставим галочку на "Add to Path"
 
-![Add to Path](photo/add_to_path)
+![Add to Path](photo/add_to_path.png)
 
 Затем нажимаем на "Install Now"
 

@@ -1,5 +1,82 @@
 # AutoZoomLinker
 
+**English Version**
+
+Hello! This script was created to simplify the process of finding and connecting to Zoom conferences for students. Just run the script, and it will automatically find the necessary link and open it in your browser.
+
+## Features
+
+- **Flexible Schedule:** Set up your class schedule and link each subject to the corresponding Zoom link.
+- **Ease of Use:** Simply run the script and enjoy automatic connection to your classes.
+
+# How to download from the website?
+
+Navigate to the folder that corresponds to your operating system, then download all the files in that folder. You can do this by clicking on the file and then clicking the download button.
+
+![Download Button on the Website](photo/download.png)
+
+## Usage
+
+### For Android
+
+To begin, go to the Play Store, then find the Pydroid 3 - IDE for Python 3 app there.
+
+#### App Image
+
+![Pydroid 3 - IDE for Python 3](photo/pydroid.jpg)
+
+Install the app, download the script, and then open it through the settings.py app.
+
+To run, press the button shown in the photo:
+
+![Run Script for Android](photo/runandrioid.png)
+
+After following the instructions in the script, you need to open main.py, remove the comment on line 6, and paste what you copied instead.
+
+Done, you can now use the script, good luck with your setup!
+
+#### Why is it complicated?
+
+The issue is that on Android, the IDE does not allow creating a settings file in the same folder as the script, so you have to use workarounds. However, you can try the Windows version; it might work for you.
+
+### For Windows
+
+Go to the Python website, then download the latest version of Python: https://www.python.org/
+
+When installing Python, be sure to check "Add to Path."
+
+![Add to Path](photo/add_to_path.png)
+
+Then click on "Install Now."
+
+After downloading, download the script and run it using Python.
+
+Done, you can now use the script, good luck with your setup!
+
+# How to share settings?
+
+## For Android
+
+You can share the copied text that is saved to your clipboard when settings.py finishes its work.
+
+## For Windows
+
+After creating your settings, a settings.json file will appear in the folder where you saved the script. You can copy this file and then send it to the person with whom you want to share the settings.
+
+# How to import settings?
+
+## For Android
+
+Copy the text that was shared with you, then open main.py, remove the comment on line 6, and paste what you copied instead.
+
+## For Windows
+
+If someone shared settings with you, and you want to save and use them, then you need to copy them and go to the folder where your script is saved. Paste the settings file there, and you're all set. You can now use the script!
+
+# WISHING EVERYONE A SUCCESSFUL USE!!!
+
+**Русская Версия**
+
 Привет! Этот скрипт был создан, чтобы облегчить процесс поиска и подключения к Zoom-конференциям для школьников. Просто запустите скрипт, и он автоматически найдет нужную ссылку и откроет ее в вашем браузере.
 
 ## Особенности

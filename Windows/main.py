@@ -90,8 +90,8 @@ if not os.path.isfile(full_path):
 
 
 
-else:
-    with open('settings.json', 'r', encoding='UTF-8') as json_file:
+elif os.path.isfile(full_path):
+    with open(full_path, 'r', encoding='UTF-8') as json_file:
         settings = json.load(json_file)
     текущее_время = datetime.datetime.now().time()
     номер_урока = str()
